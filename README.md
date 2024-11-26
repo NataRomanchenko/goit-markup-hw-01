@@ -1,2 +1,4 @@
-# goit-markup-hw-01
-goit-markup-hw-01 is available
+
+
+# GoIT Markup HW-01
+This is a sample project for GoIT markup ho master
